@@ -60,3 +60,10 @@ Bracket expressions in our regular expression signify the beginning of a charact
 /^#`?`([a-f0-9]{6}|[a-f0-9]{3})$/
 
 In this section we will discuss greedy and lazy matches. A greedy match tries to match an element as many times as possible. Whereas, a lazy match tries to match an element as few times as possible. In our example we have `?` which signifies lazy quantifier. This is referred to a lazy quantifier because it causes the regular expression engine to match as few occurances as possible. We can simply turn this lazy match into a greedy one by adding a `?`.
+
+
+## Author 
+
+Lauren Agra
+ - [LinkedIn](https://www.linkedin.com/in/lauren-agra-aa868b1b8/)
+ - [Github](https://github.com/laurenagra)
